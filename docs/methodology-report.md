@@ -154,4 +154,3 @@ Spider 16 commits 之后节奏放慢, 反映出**当业务本身处于"边设计
 - [设计稿](./designs/claude-workflow-kanban/)
 - [跨工种适配清单](./ADAPTING.md)
 - 方法论原仓库: [claude-code-workflow](https://github.com/Caspian-Sun/claude-code-workflow)
-- 姐妹案例: Cpcash Wallet (Flutter Web3, 三端 — 私有仓库, 需访问可联系作者)
